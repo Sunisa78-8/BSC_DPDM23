@@ -1,7 +1,7 @@
 # BSC_DPDM23😃👉💻👉😵
 
-✨ Sunisa Udomkhan 643021278-8 SIDS 💗
-👉 👉 👉  SC663403 Data Preparation and Data Mining 💻💥💯
+✨ Sunisa Udomkhan 643021278-8 SIDS 
+👉   SC663403 Data Preparation and Data Mining 💻💥💯
 
  #
 - Midterm (data Prepocessing .เดียว) = 20%
@@ -18,3 +18,18 @@
 - HW4💚 (Group Row3)
  ****slids (https://www.canva.com/design/DAF9BndkLuA/sW0QQDe9J8A8iwAmN0lUzw/edit?utm_content=DAF9BndkLuA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   ****📑✏️  https://github.com/Sunisa78-8/BSC_DPDM23/blob/b25c8d1cf135ee65b4559e33ff20ae1d962dd6ec/HW4.pdf
+
+# Midterm 🙏
+  - https://github.com/Sunisa78-8/BSC_DPDM23/blob/47a6d88f08c9ed735e69f54b272a926f46aa02fb/midterm_bscdpdm23.ipynb
+# Final Project 
+### number
+- กรวรรณ อู่จอหอ 643020495-5
+- ธนบดี ภูชมศรี 643020502-4
+- ลภัสลดา แดงสูงเนิน 643020518-9
+- ศิริโชค ศิริวิชา 643020522-8
+- รัตชฎากร นามวงศ์ 643020517-1
+- ธิติพร หิงพุดซา 643021267-3
+- สุชาดา อุปพงษ์ 643020524-4
+- สุนิสา อุดมขันธ์ุ 643021278-8
+  
+- Slide📌 https://github.com/Sunisa78-8/BSC_DPDM23/blob/51e054d5cd18990722cce1f7d1d9cc0db518306f/ex.ipynb
