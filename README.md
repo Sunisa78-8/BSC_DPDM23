@@ -19,8 +19,6 @@
  ****[slids](https://www.canva.com/design/DAF9BndkLuA/sW0QQDe9J8A8iwAmN0lUzw/edit?utm_content=DAF9BndkLuA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   ****📑✏️  
 
-# Quiz
--
 
 
 # Midterm 🙏
