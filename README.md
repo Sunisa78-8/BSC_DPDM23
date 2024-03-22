@@ -33,5 +33,5 @@
 - ธิติพร หิงพุดซา 643021267-3
 - สุชาดา อุปพงษ์ 643020524-4
 - สุนิสา อุดมขันธ์ุ 643021278-8
--[code](https://github.com/Sunisa78-8/BSC_DPDM23/blob/4a8bf7d62fef6781ba7933a2bfbb9147cab4b3f6/Project.ipynb)📌
+- [code](https://github.com/Sunisa78-8/BSC_DPDM23/blob/4a8bf7d62fef6781ba7933a2bfbb9147cab4b3f6/Project.ipynb)📌
 - [Slide](https://github.com/Sunisa78-8/BSC_DPDM23/blob/51e054d5cd18990722cce1f7d1d9cc0db518306f/ex.ipynb)📌
